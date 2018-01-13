@@ -1,3 +1,18 @@
-.height90 {
-    height: 91%;
+[class*="col-"] {
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
+
+body {
+    background-image: url("img/niebo.jpeg");
+}
+
+p, label, h3 {
+    color: #F0E9E9;
+}
+
+h3 {
+    background-color: rgba(85, 51, 0, 0.2);
+    border-radius: 5%;
+}
+
